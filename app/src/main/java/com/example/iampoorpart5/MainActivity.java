@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.*;
 
 public class MainActivity extends AppCompatActivity {
-    TextView label;
+    TextView label; // test
     Button rich;
     Button poor;
 
